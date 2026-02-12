@@ -33,9 +33,9 @@ function Footer() {
         </p>
 
         <div className="mt-2">
-          <a href="mailto:seuemail@email.com">
+          <a href="mailto:jv224043@gmail.com">
             <button className="rounded-xl w-56 sm:w-60 h-12 sm:h-14 mt-4 bg-Footer1 font-medium text-black text-sm sm:text-base">
-              seuemail@email.com
+              jv224063@gmail.com
             </button>
           </a>
         </div>

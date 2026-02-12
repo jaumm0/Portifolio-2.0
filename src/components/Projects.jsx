@@ -16,6 +16,7 @@ function Projects() {
         <motion.span
           initial={{ opacity: 0, translateY: "50%" }}
           whileInView={{ opacity: 1, translateY: 0 }}
+           
           transition={{ duration: 1 }}
           className="font-medium text-xs sm:text-sm text-Skills2 tracking-wide"
         >
