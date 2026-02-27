@@ -31,7 +31,10 @@ function Skills() {
         <article className="mt-6">
           <ul className="space-y-4">
             <li>
-              <p className="py-1 text-sm sm:text-base">React</p>
+              <div className="flex justify-between items-center py-1">
+                <p className="text-sm sm:text-base">React</p>
+                <p className="text-sm sm:text-base font-medium text-Skills2">92%</p>
+              </div>
               <motion.div className="w-full h-2 bg-Skills3 rounded-xl">
                 <motion.div
                   initial={{ opacity: 0, translateX: "-50%" }}
@@ -43,7 +46,10 @@ function Skills() {
             </li>
 
             <li>
-              <p className="py-1 text-sm sm:text-base">Javascript</p>
+              <div className="flex justify-between items-center py-1">
+                <p className="text-sm sm:text-base">Javascript</p>
+                <p className="text-sm sm:text-base font-medium text-Skills2">75%</p>
+              </div>
               <motion.div className="w-full h-2 bg-Skills3 rounded-xl">
                 <motion.div
                   initial={{ opacity: 0, translateX: "-50%" }}
@@ -55,7 +61,10 @@ function Skills() {
             </li>
 
             <li>
-              <p className="py-1 text-sm sm:text-base">Tailwind CSS</p>
+              <div className="flex justify-between items-center py-1">
+                <p className="text-sm sm:text-base">Tailwind CSS</p>
+                <p className="text-sm sm:text-base font-medium text-Skills2">80%</p>
+              </div>
               <motion.div className="w-full h-2 bg-Skills3 rounded-xl">
                 <motion.div
                   initial={{ opacity: 0, translateX: "-50%" }}
@@ -67,7 +76,10 @@ function Skills() {
             </li>
 
             <li>
-              <p className="py-1 text-sm sm:text-base">TypeScript</p>
+              <div className="flex justify-between items-center py-1">
+                <p className="text-sm sm:text-base">TypeScript</p>
+                <p className="text-sm sm:text-base font-medium text-Skills2">40%</p>
+              </div>
               <motion.div className="w-full h-2 bg-Skills3 rounded-xl">
                 <motion.div
                   initial={{ opacity: 0, translateX: "-50%" }}
@@ -79,7 +91,10 @@ function Skills() {
             </li>
 
             <li>
-              <p className="py-1 text-sm sm:text-base">Figma</p>
+              <div className="flex justify-between items-center py-1">
+                <p className="text-sm sm:text-base">Figma</p>
+                <p className="text-sm sm:text-base font-medium text-Skills2">80%</p>
+              </div>
               <motion.div className="w-full h-2 bg-Skills3 rounded-xl">
                 <motion.div
                   initial={{ opacity: 0, translateX: "-50%" }}
